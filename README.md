@@ -15,7 +15,7 @@ Hi there! I'm Anshika Chauhan, an undergrad with a passion for new technologies.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshika231106&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
