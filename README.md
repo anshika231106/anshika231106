@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Anshika Chauhan, a undergrad with a passion for new technologies.<br>👩‍💻Currently, I'm focusing on my coding skills and exploring new trends in web development.<br>🎨When I'm not coding, I enjoy painting and sketching.<br>My skills include:<br>- html,css.js<br>- C/C++<br>- Python<br><br><br>
+Hi there! I'm Anshika Chauhan, an undergrad with a passion for new technologies.<br>👩‍💻Currently, I'm focusing on my coding skills and exploring new trends in web development.<br>🎨When I'm not coding, I enjoy painting and sketching.<br>My skills include:<br>- html,css.js<br>- C/C++<br>- Python<br><br><br>
 
 
 ## 🌐 Socials:
